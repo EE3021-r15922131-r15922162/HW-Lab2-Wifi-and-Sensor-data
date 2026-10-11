@@ -1,0 +1,9 @@
+﻿Debug/
+Release/
+.metadata/
+.settings/
+*.elf
+*.o
+*.list
+*.map
+__pycache__/
